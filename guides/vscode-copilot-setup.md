@@ -195,6 +195,8 @@ Clicking it opens an R view that should feel similar to RStudio, listing what's 
 Given the growth of using AI for coding, there are many online video tutorials to complement these instructions. Note that most online tutorials examples give more software development/computer science examples instead of economics ones but the VS Code and GitHub Copilot tools apply similarily:
 - https://learn.github.com/courses/githubcopilot101essentialfeatures
 - [How to use GitHub Copilot (the complete beginner's guide)](https://www.youtube.com/watch?v=SJqGYwRq0uc)
+- [Get Started with GitHub Copilot in VS Code (2025)](
+https://www.youtube.com/watch?v=vdBxfFVXnc0)
 - https://learn.microsoft.com/en-us/shows/visual-studio-code/get-started-with-github-copilot-in-vs-code
 - https://www.microsoft.com/en-us/thesource-developer/Category/52/github-copilot-in-visual-studio-code
 ---
