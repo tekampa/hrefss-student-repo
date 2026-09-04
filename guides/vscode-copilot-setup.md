@@ -18,6 +18,7 @@ The goal is to have: VS Code installed, Copilot Pro activated, and a working R +
 GitHub gives verified students the **Student Developer Pack**, which includes Copilot Pro at no cost.
 
 1. Go to **[github.com/education/students](https://github.com/education/students)** and click **Join GitHub Education** (or scroll down to **Get verified**).
+
 ![GitHub Education sign-up](images/join-github-education.png)
 2. If needed, sign in with your GitHub account.
 3. When prompted, apply for GitHub Education with your **Columbia `@columbia.edu` email** and verify your student status. You may be asked to:
