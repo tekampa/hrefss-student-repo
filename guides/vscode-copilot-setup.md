@@ -85,6 +85,7 @@ To actually run R code within VS Code, you need R itself plus a couple of helper
    install.packages("languageserver")
    ```
 ![Install R Packages](images/install-r-packages.png)
+
 3. *(Recommended)* For nicer plots and a better console:
    ```r
    install.packages("httpgd") # in-editor plot viewer
