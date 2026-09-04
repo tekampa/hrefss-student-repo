@@ -20,12 +20,14 @@ GitHub gives verified students the **Student Developer Pack**, which includes Co
 1. Go to **[github.com/education/students](https://github.com/education/students)** and click **Join GitHub Education** (or scroll down to **Get verified**).
 
 ![GitHub Education sign-up](images/join-github-education.png)
+
 2. If needed, sign in with your GitHub account.
 3. When prompted, apply for GitHub Education with your **Columbia `@columbia.edu` email** and verify your student status. You may be asked to:
    - confirm your school email, and/or
    - upload **proof of enrollment** (e.g., a photo of your student ID or a dated enrollment document).
 4. Submit and wait for approval. This can take anywhere from a **few minutes to a few days, so apply ASAP.** Check your email (including spam) for the confirmation.
 5. Once approved, confirm Copilot is active at **[github.com/settings/copilot](https://github.com/settings/copilot)** — you should see GitHub Copilot Pro listed as active as shown below:
+
 ![GitHub Site Copilot Active](images/github-copilot-active.png)
 
 > **Note:** You must be approved for GitHub Education *before* Copilot will work in VS Code.
@@ -85,6 +87,7 @@ To actually run R code within VS Code, you need R itself plus a couple of helper
    ```r
    install.packages("languageserver")
    ```
+   
 ![Install R Packages](images/install-r-packages.png)
 
 3. *(Recommended)* For nicer plots and a better console:
